@@ -13,3 +13,4 @@ contract GM is ERC20, Ownable {
         _mint(to, amount);
     }
 }
+//Tx hash 0x1bc034484867E83d2D6D9C4bB9a2bdd305f8C034
